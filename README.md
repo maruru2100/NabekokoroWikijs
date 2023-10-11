@@ -1,4 +1,4 @@
-# Wikijs + ElasticSearch + Docker
+# NabekokoroWikijs
 
 WikijsをDockerで立ち上げ。  
 ElasticSearchを利用した日本語検索を実施。
